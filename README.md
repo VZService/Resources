@@ -18,6 +18,8 @@ A curated collection of useful resources by the VZService organization — hope 
 | Smiley Sans | [view](https://atelier-anchor.com/typefaces/smiley-sans) / [GitHub](https://github.com/atelier-anchor/smiley-sans) | A free typeface that everyone can use |
 | Google Fonts | [GitHub](https://github.com/google/fonts) | A font library provided by Google |
 | API Directory | [link](https://qwq.tangdouz.com) | A directory of numerous API websites; some may have restrictions or be Chinese-only |
+| Reference (English) | [use](https://cheatsheets.zip/) / [GitHub](https://github.com/Fechin/reference) | A collection of cheat sheets and quick references in English |
+| Reference (Chinese) | [use](https://wangchujiang.com/reference/) / [GitHub](https://github.com/jaywcjlove/reference) | A collection of cheat sheets and quick references in Chinese |
 
 ## Unverified Resources
 
