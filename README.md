@@ -3,7 +3,7 @@
 English | [简体中文](./README_zh.md)
 
 > [!WARNING]
-> Some resources listed here may only be accessible from within mainland China.
+> Some resources may only be accessible in certain regions or may have become unavailable.
 
 A curated collection of useful resources by the VZService organization — hope you find them helpful!
 
@@ -17,6 +17,7 @@ A curated collection of useful resources by the VZService organization — hope 
 | AppIconForge | [use](https://zhangyu1818.github.io/appicon-forge/) / [GitHub](https://github.com/zhangyu1818/appicon-forge) | A simple tool to help you generate app icons |
 | Smiley Sans | [view](https://atelier-anchor.com/typefaces/smiley-sans) / [GitHub](https://github.com/atelier-anchor/smiley-sans) | A free typeface that everyone can use |
 | Google Fonts | [GitHub](https://github.com/google/fonts) | A font library provided by Google |
+| API Directory | [link](https://qwq.tangdouz.com) | A directory of numerous API websites; some may have restrictions or be Chinese-only |
 
 ## Unverified Resources
 
