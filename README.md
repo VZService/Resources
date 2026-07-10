@@ -2,21 +2,22 @@
 
 English | [简体中文](./README_zh.md)
 
->[!WARNING]
->Some resources here may only be accessible from within mainland China.
+> [!WARNING]
+> Some resources listed here may only be accessible from within mainland China.
 
-The useful resources currently collected by the VZService organization — you might find them helpful.
+A curated collection of useful resources by the VZService organization — hope you find them helpful!
 
-➡️ Contributions are welcome! Please open a **pull request (PR)**.
+➡️ Contributions are welcome! Feel free to open a **pull request (PR)**.
 
-# Resources list *(verified)*
-| NAME | URL | DESCRIPTION |
-| ------ | ------ | ------ |
-| IconPack1 | [view](https://nieobie.itch.io/free-icons) / [github](https://github.com/Nieobie/game-icon-pack) | FreeIconPack |
-| AppIconForge | [use](https://zhangyu1818.github.io/appicon-forge/) / [github](https://github.com/zhangyu1818/appicon-forge) | Help you create app icon |
+## Verified Resources
 
-# Resources list *(unverified)*
-| NAME | URL | DESCRIPTION |
-| ------ | ------ | ------ |
-| none | none | none |
+| Name | URL | Description |
+|------|-----|-------------|
+| IconPack1 | [view](https://nieobie.itch.io/free-icons) / [github](https://github.com/Nieobie/game-icon-pack) | A free icon pack containing game, UI, and other icons |
+| AppIconForge | [use](https://zhangyu1818.github.io/appicon-forge/) / [github](https://github.com/zhangyu1818/appicon-forge) | A simple tool to help you generate app icons |
 
+## Unverified Resources
+
+| Name | URL | Description |
+|------|-----|-------------|
+| — | — | No unverified resources yet. |
