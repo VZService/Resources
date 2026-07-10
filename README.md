@@ -3,7 +3,7 @@
 English | [简体中文](./README_zh.md)
 
 > [!WARNING]
-> Some resources listed here may only be accessible from within mainland China.
+> Some resources listed here may only be accessible from within a specific region.
 
 A curated collection of useful resources by the VZService organization — hope you find them helpful!
 
