@@ -58,7 +58,6 @@ A curated collection of useful resources by the VZService organization — hope 
 | Datatool | [Use](https://datatool.vip) | Video downloader for any website, supporting watermark-free, 4K high-speed downloads |
 | 58pic | [Use](https://58pic.com) | Rich design material library with posters, illustrations, backgrounds, etc., ideal for quick sourcing |
 | Photopea | [Use](https://photopea.com) | A graphics editor supporting layers and filters, a handy Photoshop alternative for urgent design needs |
-| remove.photos | [Use](https://remove.photos) | One-click background removal tool, upload image to automatically remove background, faster than PS |
 | Slogan Word | [Use](https://slogan.ishell.online) | Text card generator with customizable fonts, colors, etc., for easy text poster creation |
 | Flaticon | [Use](https://flaticon.com) | Over 1 million free vector icons, available in multiple formats |
 | Wallhaven | [Use](https://wallhaven.cc) | Over 1.2 million HD wallpapers, original images without watermarks or ads, a paradise for wallpaper lovers |
